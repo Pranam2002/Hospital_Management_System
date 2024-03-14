@@ -1,5 +1,5 @@
 {
-  "name": "doc-appoinment-system",
+  "name": "Hospital_Management_System",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
